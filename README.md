@@ -3,11 +3,11 @@
 
 
 ## <h1>Hi, I'm Darshan! 👋</h1>
-🚀 Computer Science Engineering Student..,</br>
-😊 Learning MERN Stack Developement & Problem solving ...</br>
-🎥 I will be sharing my journey , projects and tips on development, & tech trends on my GitHub..!!</br>
-💻 #codinginpublic in my digital space here</br>
-📚 Currently learning React.js and Node.js to create awesome websites!</br>
+- 🚀 Computer Science Engineering Student..,</br>
+- 😊 Learning MERN Stack Developement & Problem solving ...</br>
+- 🎥 I will be sharing my journey , projects and tips on development, & tech trends on my GitHub..!!</br>
+- 💻 #codinginpublic in my digital space here</br>
+- 📚 Currently learning React.js and Node.js to create awesome websites!</br>
 
 
 
