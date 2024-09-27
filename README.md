@@ -9,7 +9,8 @@
 💻 #codinginpublic in my digital space here</br>
 📚 Currently learning React.js and Node.js to create awesome websites!</br>
 
-[![](https://visitcount.itsvg.in/api?id=Darshan0244&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## ✉️ Contact : [![Email](https://img.shields.io/badge/Email-darshand4802@gmail.com-%23333B)](mailto:darshand4802@gmail.com)
 
 ## 🌐 Socials:
