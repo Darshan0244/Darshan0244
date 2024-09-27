@@ -4,17 +4,25 @@
 
 ## <h1>Hi, I'm D Darshan! 👋</h1>
 🚀 Computer Science Engineering Student..,</br>
-💌 darshand4802@gmail.com</br>
-😊 Learning MERN Stack Developement and Problem solving ...</br>
-🎥 I will be sharing my journey , projects and tips on development, and tech trends on my GitHub..!!</br>
+😊 Learning MERN Stack Developement & Problem solving ...</br>
+🎥 I will be sharing my journey , projects and tips on development, & tech trends on my GitHub..!!</br>
 💻 #codinginpublic in my digital space here</br>
 📚 Currently learning React.js and Node.js to create awesome websites!</br>
 
 [![](https://visitcount.itsvg.in/api?id=Darshan0244&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✉️ Contact : [![Email](https://img.shields.io/badge/Email-darshand4802@gmail.com-%23333B)](mailto:darshand4802@gmail.com)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.darshan_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-darshan-36077327a/) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-darshan-36077327a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.darshan_02) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/darshand4802) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/darshand433/) 
+
+
+
+
+
+
+
+
 
 
 # 💻 Tech Stack:
