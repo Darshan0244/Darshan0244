@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-darshan-36077327a/) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/darshand4802) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/darshand433/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https:www.geeksforgeeks.org/user/darshan_d001/) [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-DD6620?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/darshand) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-darshan-36077327a/) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/darshand4802) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/darshand433/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/darshan_d001/) [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-DD6620?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/darshand) 
 
 
 
