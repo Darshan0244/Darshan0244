@@ -38,8 +38,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Darshan0244&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 Certification 
-<a href="https://www.credly.com/badges/5a29812f-a0df-49ec-b3e8-ab3ac693d5cc">
-  <img src="https://github.com/user-attachments/assets/88162dfd-a792-4dd7-b701-52ca3d31a159" alt="Cisco Networking Academy JavaScript Essentials Badge" height="150">
-</a>
-
