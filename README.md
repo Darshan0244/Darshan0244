@@ -3,7 +3,7 @@
 
 
 ## <h1>Hi, I'm Darshan! 👋</h1>
-- 🚀 3rd yr Computer Science Engineering Student..,</br>
+- 🚀 Final yr Computer Science Engineering Student..,</br>
 - 😊 Learning MERN Stack Developement & Problem solving ...</br>
 - 🎥 I will be sharing my journey , projects & tech trends on my GitHub..!!</br>
 - 💻 #codinginpublic in my digital space here</br>
